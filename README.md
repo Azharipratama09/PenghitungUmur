@@ -37,7 +37,7 @@ Perhitungan selisih waktu
 | :-: | --------------   |   :-----:    |
 |  1  | Komponen GUI     |    10    |
 |  2  | Logika Program   |    10    |
-|  3  | Kesesuaian UI    |    20    |
-|  4  | Constructor      |    10    |
+|  3  | Event    |    20    |
+|  4  |Kesesuaian UI      |    10    |
 |  5  | Memenuhi Variasi |    50    |
 |     | *TOTAL*        | *100* |
